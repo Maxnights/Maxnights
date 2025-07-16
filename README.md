@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Maxnights/Maxnights/main/img.png" alt="Maxnights Header" width="100%" />
+
 <!-- Основное описание -->
 <div align="left">
 
