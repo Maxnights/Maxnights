@@ -12,7 +12,7 @@ Focused on clean code, innovative UI/UX, and bringing ideas to life with pixel-p
 
 ## ☕ Support My Work
 
-If you enjoy my content and projects, feel free to [buy me a coffee](https://www.buymeacoffee.com/yourname) and help me keep going!
+If you enjoy my content and projects, feel free to [buy me a coffee](buymeacoffee.com/maksimzales) and help me keep going!
 
 ---
 
